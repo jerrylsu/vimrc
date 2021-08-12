@@ -13,4 +13,4 @@ Linux: `mv plug.vim ~/.vim/autoload`
 
 ## Open file
 
-vim :PlugeInstall
+`vim file` & `:PlugeInstall`
